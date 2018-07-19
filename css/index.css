@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-position:top;
+	background-repeat: no-repeat;
+	background-size:100%;
+	position: relative;
+	z-index: -1;
+	margin:0px;
+	padding: 0px;
+}
+
+.bg{
+	width: 100%;
+	margin: 30px 0px;
+	padding : 30px;
+	background-color: aqua;
+	
+}
+.header{
+	margin-right: 10px;
+
+}.header2{
+	margin-right: 0px;
+
+}
+.header h1{
+	color: white;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.header h4{
+	color: white;
+	
+}
+
+h5{
+	color: white;
+	padding:0 0 0 50px;
+}
+
+.footer{
+	font-size: 20px;
+	margin: 30px 0px;
+	width: 100%;
+	line-height: 64px;
+	height: 64px;
+	text-align: center;
+	color: white;
+	background-color: aqua;
+}
+p{
+	margin-bottom: 0px;
+}
+.menu{
+	padding: 20px 0px;
+}
+.btn{
+	margin: 0px 5px;
+}
+.content{
+	padding:20px 0px;
+	text-align: center;
+}
+.content h5{
+	text-align: left;
+	font-size: 30px;
+}
+.main1{
+	padding:50px;	
+}
+.main{
+	margin : 0px 10px;
+	width: 100%;
+	background-color: aqua;
+	
+}
+.main>h4{
+	padding:20px;
+	color: white;
+	
+}
+.opa{
+	opacity: 1;
+}
+.bd{
+	padding-bottom: 20px;
+	border-bottom: 1px solid white;
+}
+
+.m1{
+	height: 570px;
+}

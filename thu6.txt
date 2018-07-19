@@ -1,0 +1,24 @@
+[
+   {
+      "Sang" : "- 1 bát miến gà ",
+      "Trua" : "- ½ chén cơm",
+      "Toi" : "- Susu luộc chấm muối vừng"
+   },
+   {
+      "Sang" : "- Rau sống",
+      "Trua" : "- 1 khúc cá hấp",
+      "Toi" : "- Canh cua đồng nấu rau mùng tơi/rau đay"
+   },
+   {
+      "Sang" : "- 1 ly nước chanh",
+      "Trua" : "- 1 Rau luộc",
+      "Toi" : "- ½ quả bưởi "
+   },
+   {
+      "Trua" : "- Sinh tố đu đủ",
+      "Toi" : "- Ly nước chanh"
+   }
+  
+]	
+
+				

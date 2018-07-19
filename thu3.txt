@@ -1,0 +1,21 @@
+[
+   {
+      "Sang" : "- Bánh cuốn nóng",
+      "Trua" : "- ½ chén cơm",
+      "Toi" : "- ½ chén cơm"
+   },
+   {
+      "Sang" : "- 1 quả chuối chín",
+      "Trua" : "- Canh bí đỏ thịt nạc",
+      "Toi" : "- Canh bí xanh nấu tôm"
+   },
+   {
+      "Sang" : "- Nước mật ong pha nóng",
+      "Trua" : "- 1 quả táo hoặc nửa quả bưởi",
+      "Toi" : "- 1 quả táo/ chuối chín "
+   },
+   {
+      "Trua" : "- Rau Bắp Cải Luộc"
+   }
+  
+]	

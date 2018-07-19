@@ -1,0 +1,24 @@
+[
+   {
+      	"Sang" : "- 1 trứng ốp la",
+      	"Trua" : "- ½ chén cơm",
+      	"Toi" : "- 1 bát mì sợi thịt nạc hoặc phở gà"
+   },
+   {
+      	"Sang" : "- 1 bánh mì",
+      	"Trua" : "- Canh bắp cải nấu cà chua thịt nạc",
+      	"Toi" : "- Canh bí xanh nấu tôm"
+   },
+   {
+      	"Sang" : "- Salat dưa chuột",
+      	"Trua" : "- Củ cải trắng luộc",
+      	"Toi" : "- 1 quả táo/ chuối chín "
+   },
+   {
+   		"Sang" : "- 1 ly nước chanh", 
+      	"Trua" : "- 1 miếng dưa hấu"
+   },
+   {
+      	"Trua" : "- 1 ly nước chanh"
+   }
+]	

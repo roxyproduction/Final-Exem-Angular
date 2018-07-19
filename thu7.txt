@@ -1,0 +1,13 @@
+[
+   {
+      "Sang" : "- Chỉ ăn cháo (gà, thịt nạc) , hoặc rau muống luộc",
+      "Trua" : "- Thứ 7 và cn hạn chế ăn hoa quả",
+      "Toi" : "- Thứ 7 và cn hạn chế ăn hoa quả "
+   },
+   {
+      "Sang" : "- Có thể ăn thêm sữa chua",
+      "Trua" : "- Chủ nhật, thứ 7 có thể ăn các món ăn của các ngày trước.",
+      "Toi" : "- Chủ nhật, thứ 7 có thể ăn các món ăn của các ngày trước."
+   }
+  
+]	

@@ -1,0 +1,17 @@
+[
+   {
+      "Sang" : "- 1 tô bún riêu cua/ bún cá",
+      "Trua" : "- ½ chén cơm",
+      "Toi" : "- Ăn trái cây nhiều trước khi ăn cơm (tùy món)"
+   },
+   {
+      "Sang" : "- ½ quả bưởi",
+      "Trua" : "- Canh cá lóc nấu chua"      
+   },
+   {
+   "Trua" : "- 1 quả táo hoặc nửa quả bưởi"      
+   }
+  
+]	
+
+		

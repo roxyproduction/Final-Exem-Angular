@@ -1,0 +1,25 @@
+[
+   {
+      "Sang" : "- 2 trứng gà luộc",
+      "Trua" : "- Nửa chén cơm",
+      "Toi" : "- Nửa chén cơm"
+   },
+   {
+      "Sang" : "- 1 củ cà rốt luộc",
+      "Trua" : "- Canh bí đao thịt nạc",
+      "Toi" : "- Canh ngao nấu chua"
+   },
+   {
+      "Sang" : "- 1 ly nước chanh (hoặc trà xanh)",
+      "Trua" : "- Nửa miếng đậu phụ",
+      "Toi" : "- 1 quả táo "
+   },
+   {
+      "Trua" : "- Rau Bắp Cải Luộc",
+      "Toi" : "- Uống nước lọc"
+   },
+   {
+      "Trua" : "- Cam/quýt (1 trái)"
+   }
+]
+			
